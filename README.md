@@ -1,1 +1,0 @@
-# react-i18n-internationalization
