@@ -1,1 +1,1 @@
-# react-i18n-localization
+# react-i18n-internationalization
